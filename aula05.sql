@@ -1,4 +1,3 @@
--- @mssql Chat Query Editor (myfreesqldbserver-pt303772x.database.windows.net:PTBPABD:ptbpadb@myfreesqldbserver-pt303772x)
 -- Questao 01
 CREATE TABLE pessoa (
 	id INT PRIMARY KEY,
